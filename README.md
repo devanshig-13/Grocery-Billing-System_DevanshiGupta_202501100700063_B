@@ -1,4 +1,4 @@
-Problem Statement
+"Problem Statement"
 
 Write a Python program that calculates the total cost of five items based on their individual prices and quantities.
 
@@ -18,7 +18,7 @@ Display the total amount, discount, and final amount
 
 
 
-Approach
+"Approach"
 
 Take input for the prices of five items using float(input()).
 
@@ -40,7 +40,7 @@ Print the total amount, discount, and final payable amount.
 
 
 
-sample output 
+"sample output" 
 
 Enter price of item 1: 50
 
